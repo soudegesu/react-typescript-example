@@ -12,5 +12,7 @@
       "language": "typescriptreact",
       "autoFix": true
     }
-  ]
+  ],
+  "editor.renderWhitespace": "boundary",
+  "editor.tabSize": 2
 }
